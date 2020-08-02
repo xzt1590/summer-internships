@@ -12,7 +12,7 @@ SEA-S7开发平台的MCU即ESP32计算能力有限，只能完成一些简单的
 * ExecutableFiles--microPython端的.bit文件与.py文件  
 * images--过程中的仿真结果和实际验证结果截图  
 * sourcecode--源码  
-## 外设列表：
+## 外设列表： 
 * SEA-S7
 ## 作品照片：
 * ![1](https://github.com/xzt1590/summer-internships/blob/master/images/2.7%E4%B9%98%E4%BB%A52.7.png)
