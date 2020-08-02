@@ -13,7 +13,9 @@ SEA-S7开发平台的MCU即ESP32计算能力有限，只能完成一些简单的
 * images--过程中的仿真结果和实际验证结果截图  
 * sourcecode--源码  
 ## 外设列表： 
-* SEA-S7
+* SEA-S7开发板
+* type-c数据线
+* TF卡一张
 ## 作品照片：
 * ![1](https://github.com/xzt1590/summer-internships/blob/master/images/2.7%E4%B9%98%E4%BB%A52.7.png)
 * ![2](https://github.com/xzt1590/summer-internships/blob/master/images/2.7%E5%8A%A02.7.png)
