@@ -1,5 +1,4 @@
-# summer-internships  
-summer internships  
+# summer-internships    
 ## 项目概要：
 SEA-S7开发平台的MCU即ESP32计算能力有限，只能完成一些简单的算术运算，为了提升ESP32的数据处理能力，我们使用SEA-S7开发平台的FPGA部分给ESP32设计一个浮点处理单元（FPU），使ESP32具备硬件浮点数处理的能力。它包括浮点的基本四则运算，浮点数精度为单精度.
 ## 工具版本：  
